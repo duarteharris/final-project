@@ -1,0 +1,17 @@
+name: light-environment
+channels:
+  - conda-forge
+dependencies:
+  - json
+  - logging
+  - numpy
+  - os
+  - pandas==1.0.*
+  - pickle
+  - plac
+  - random
+  - re
+  - sklearn
+  - spacy
+  - sys
+  - tqdm
