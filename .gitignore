@@ -8,6 +8,10 @@
 
 ### Ignore Directories ###
 datasets/
+models/
+basic/
+git rm -r models/
+git rm -r basic/
 
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
